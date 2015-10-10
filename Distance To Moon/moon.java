@@ -1,7 +1,8 @@
 /*
  * @author: Lisa Nguyen
  * @version: 09 October 2015
- * A program which takes user input and then calculates the number of times the paper must be folded in order to reach the moon
+ * A program which takes user input and then calculates the number of times the paper 
+ * must be folded in order to reach the moon
  */
 import java.util.*;
 
